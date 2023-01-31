@@ -25,7 +25,7 @@ updates or additions to this dataset are welcome and appreciated.
 <i>Left: Heatmap of cases in the master dataset; right: Heatmap of Hindu population as a % of total population 
 (source: <a href="https://github.com/vindicindic/pakistan_minorities">here</a>)</i> 
 
-#### Current # cases in dataset = 30
+#### Current # cases in dataset = 56
 
 **Master Dataset**: You can access the dataset [here](data/20230131_list_forced_conversions_in_pakistan.xlsx).
 
