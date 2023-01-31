@@ -9,11 +9,16 @@ Please provide proper attribution and reference if you use these datasets.
   
 ---  
   
-## Dataset on forced religious conversion of young Hindu girls in Pakistan (especially in Sindh)
+## Dataset on violence / abduction / forced religious conversion of young Hindu girls in Pakistan (especially in Sindh)
 
-![Hindu women in Pakistan](assets/collage.jpg)
+<img src="assets/collage.jpg" width="400">
 
-A detailed dataset has been prepared for cases relating to forced conversion of Hindu girls in Pakistan (especially Sindh that is home to ~94% Hindu population of Pakistan). The dataset has been primarily sourced from Twitter. WHile attempts have been made to capture data as accurately as possible, errors are regretted and any updates or additions to this dataset are welcome and appreciated.
+A detailed dataset has been prepared for cases relating to abduction, violence, forced conversion of/on Hindu girls in 
+Pakistan (especially Sindh that is home to ~94% Hindu population of Pakistan). The dataset has been primarily sourced 
+from Twitter. While attempts have been made to capture data as accurately as possible, errors are regretted and any 
+updates or additions to this dataset are welcome and appreciated.
+
+#### Current # cases in dataset = 30
 
 **Master Dataset**: You can access the dataset [here](data/20230131_list_forced_conversions_in_pakistan.xlsx).
 
