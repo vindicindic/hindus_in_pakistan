@@ -18,6 +18,12 @@ Pakistan (especially Sindh that is home to ~94% Hindu population of Pakistan). T
 from Twitter. While attempts have been made to capture data as accurately as possible, errors are regretted and any 
 updates or additions to this dataset are welcome and appreciated.
 
+### These attacks happen the most in areas with relatively high Hindu populations.
+
+<img src="assets/heatmap.png" width="300"/><img src="assets/sindh_hindu_population_per_by_district.png" width="300"/>
+<i>Left: Heatmap of cases in the master dataset; right: Heatmap of Hindu population as a % of total population 
+(source: <a href="https://github.com/vindicindic/pakistan_minorities">here</a>)</i> 
+
 #### Current # cases in dataset = 30
 
 **Master Dataset**: You can access the dataset [here](data/20230131_list_forced_conversions_in_pakistan.xlsx).
