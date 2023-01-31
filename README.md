@@ -20,7 +20,7 @@ updates or additions to this dataset are welcome and appreciated.
 
 ### These attacks happen the most in areas with relatively high Hindu populations.
 
-<img src="assets/heatmap.png" width="300"/><img src="assets/sindh_hindu_population_per_by_district.png" width="300"/>
+<img src="assets/heatmap.png" height="300"/>  <img src="assets/sindh_hindu_population_per_by_district.png" height="300"/>
 <i>Left: Heatmap of cases in the master dataset; right: Heatmap of Hindu population as a % of total population 
 (source: <a href="https://github.com/vindicindic/pakistan_minorities">here</a>)</i> 
 
