@@ -25,11 +25,20 @@ updates or additions to this dataset are welcome and appreciated.
 <i>Left: Heatmap of cases in the master dataset; right: Heatmap of Hindu population as a % of total population 
 (source: <a href="https://github.com/vindicindic/pakistan_minorities">here</a>)</i> 
 
-#### Current # cases in dataset = 56
-
 **Master Dataset**: This dataset called DAAHIP-W (Dataset of Atrocities Against Hindus in Pakistan - Women) contains 
 a list of cases that capture critical details about recorded atrocities against Hindu women in Pakistan. You can access 
 the dataset [here](data/daahip-w/20230131_list_violence_abductions_forced_conversions_hindu_women_in_pakistan.xlsx).
+
+<table>
+    <tr>
+        <th>Current # cases in dataset</th>
+        <td>56</td>
+    </tr>
+    <tr>
+        <th>Time-horizon</th>
+        <td>approx. Oct '22 - Jan '23</td>
+    </tr>
+</table>
 
 **Data dictionary**: Click <a href="data/data_dictionary.xlsx">here</a> to access the data dictionary for this dataset 
 (Sheet name = DAAHIP-W)  
