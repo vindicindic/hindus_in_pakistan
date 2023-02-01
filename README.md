@@ -32,7 +32,7 @@ the dataset [here](data/daahip-w/20230131_list_violence_abductions_forced_conver
 <table>
     <tr>
         <th>Current # cases in dataset</th>
-        <td>56</td>
+        <td>64</td>
     </tr>
     <tr>
         <th>Time-horizon</th>
@@ -45,8 +45,8 @@ the dataset [here](data/daahip-w/20230131_list_violence_abductions_forced_conver
 
 **Additional data**: You can also check out photos of victims, perpetrators, FIR documents etc. in the `data` folder. 
 Each case in the master dataset is indexed using a case ID. If there is any additional data for a case (e.g. pictures, 
-documents etc.), you will find a dedicated folder for that case in the `data/forced_conversions_case_data` folder. For 
-example, for case # 9, you will want to look at folder titled `case_9`.
+documents etc.), you will find a dedicated folder for that case in the `data/daahip-w/forced_conversions_case_data` 
+folder. For example, for case # 9, you will want to look at folder titled `case_9`.
 
 #### Help me add new or missing cases to the dataset
 You can use <a href="https://docs.google.com/forms/d/e/1FAIpQLSfKJotL3I1i5zj-RV45OP-dm-J0CIopWCDQGisoZSkmKt4h7A/viewform">this Google Form</a> to inform me about any new/missing case. Thank you in advance!
