@@ -27,9 +27,17 @@ updates or additions to this dataset are welcome and appreciated.
 
 #### Current # cases in dataset = 56
 
-**Master Dataset**: You can access the dataset [here](data/20230131_list_forced_conversions_in_pakistan.xlsx).
+**Master Dataset**: This dataset called DAAHIP-W (Dataset of Atrocities Against Hindus in Pakistan - Women) contains 
+a list of cases that capture critical details about recorded atrocities against Hindu women in Pakistan. You can access 
+the dataset [here](data/daahip-w/20230131_list_violence_abductions_forced_conversions_hindu_women_in_pakistan.xlsx).
 
-**Additional data**: You can also check out photos of victims, perpetrators, FIR documents etc. the `data` folder. Each case in the master dataset is index using a case ID. If there is any additional data for a case (e.g. pictures, documents etc.), you will find a dedicated folder for that case in the `data/forced_conversions_case_data` folder. For example, for case # 9, you will want to look at folder titled `case_9`.
+**Data dictionary**: Click <a href="data/data_dictionary.xlsx">here</a> to access the data dictionary for this dataset 
+(Sheet name = DAAHIP-W)  
+
+**Additional data**: You can also check out photos of victims, perpetrators, FIR documents etc. the `data` folder. 
+Each case in the master dataset is index using a case ID. If there is any additional data for a case (e.g. pictures, 
+documents etc.), you will find a dedicated folder for that case in the `data/forced_conversions_case_data` folder. For 
+example, for case # 9, you will want to look at folder titled `case_9`.
 
 #### Special thanks to the following people for sharing information on these cases:
 1. [Narain Das Bheel](https://twitter.com/NarainDasBheel8)
