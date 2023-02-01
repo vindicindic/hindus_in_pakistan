@@ -43,8 +43,8 @@ the dataset [here](data/daahip-w/20230131_list_violence_abductions_forced_conver
 **Data dictionary**: Click <a href="data/data_dictionary.xlsx">here</a> to access the data dictionary for this dataset 
 (Sheet name = DAAHIP-W)  
 
-**Additional data**: You can also check out photos of victims, perpetrators, FIR documents etc. the `data` folder. 
-Each case in the master dataset is index using a case ID. If there is any additional data for a case (e.g. pictures, 
+**Additional data**: You can also check out photos of victims, perpetrators, FIR documents etc. in the `data` folder. 
+Each case in the master dataset is indexed using a case ID. If there is any additional data for a case (e.g. pictures, 
 documents etc.), you will find a dedicated folder for that case in the `data/forced_conversions_case_data` folder. For 
 example, for case # 9, you will want to look at folder titled `case_9`.
 
