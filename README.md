@@ -9,7 +9,7 @@ Please provide proper attribution and reference if you use these datasets.
   
 ---  
   
-## Dataset on violence / abduction / forced religious conversion of young Hindu girls in Pakistan (especially in Sindh)
+### 1. Dataset on violence / abduction / forced religious conversion of young Hindu girls in Pakistan (especially in Sindh)
 
 <img src="assets/collage.jpg" width="400">
 
@@ -18,7 +18,7 @@ Pakistan (especially Sindh that is home to ~94% Hindu population of Pakistan). T
 from Twitter. While attempts have been made to capture data as accurately as possible, errors are regretted and any 
 updates or additions to this dataset are welcome and appreciated.
 
-### These attacks happen the most in areas with relatively high Hindu populations.
+#### These attacks happen the most in areas with relatively high Hindu populations.
 
 <img src="assets/heatmap.png" height="300"/>  <img src="assets/sindh_hindu_population_per_by_district.png" height="300"/>  
 
@@ -48,6 +48,7 @@ Each case in the master dataset is indexed using a case ID. If there is any addi
 documents etc.), you will find a dedicated folder for that case in the `data/daahip-w/forced_conversions_case_data` 
 folder. For example, for case # 9, you will want to look at folder titled `case_9`.
 
+
 #### Help me add new or missing cases to the dataset
 You can use <a href="https://docs.google.com/forms/d/e/1FAIpQLSfKJotL3I1i5zj-RV45OP-dm-J0CIopWCDQGisoZSkmKt4h7A/viewform">this Google Form</a> to inform me about any new/missing case. Thank you in advance!
 
@@ -55,6 +56,18 @@ You can use <a href="https://docs.google.com/forms/d/e/1FAIpQLSfKJotL3I1i5zj-RV4
 1. [Narain Das Bheel](https://twitter.com/NarainDasBheel8)
 2. [Anshul Saxena](https://twitter.com/AskAnshul)
 3. Sakshi Singh
+
+
+---  
+### 2. List of Hindu temple sites in Pakistan
+A list of 343 Hindu temple sites has been published. The temple names and location details have been sourced from the 
+article [here](https://en.wikipedia.org/wiki/List_of_Hindu_temples_in_Pakistan). Many of these sites have been 
+completely ruined, or worse, converted. The Pakistani government has taken very little efforts to protect these temples.
+The list includes Hindu, Jain and Sikh religious sites. The temples locations have been geocoded. Currently, the dataset
+is being improved by addition of additional attributes that help track the status of these sites. Any help with this 
+work  is appreciated. 
+
+The dataset can be accessed [here](data/list_hindu_temples_in_pak/20230408_list_hindu_temples_pakistan.xlsx).
 
 ----  
 ## Get involved
