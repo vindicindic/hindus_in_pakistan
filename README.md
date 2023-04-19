@@ -32,11 +32,11 @@ the dataset [here](data/daahip-w/20230131_list_violence_abductions_forced_conver
 <table>
     <tr>
         <th>Current # cases in dataset</th>
-        <td>64</td>
+        <td>73</td>
     </tr>
     <tr>
         <th>Time-horizon</th>
-        <td>approx. Oct '22 - Jan '23</td>
+        <td>approx. Oct '22 - Apr '23</td>
     </tr>
 </table>
 
