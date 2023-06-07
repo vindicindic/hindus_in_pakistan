@@ -32,7 +32,7 @@ the dataset [here](data/daahip-w/20230131_list_violence_abductions_forced_conver
 <table>
     <tr>
         <th>Current # cases in dataset</th>
-        <td>103</td>
+        <td>106</td>
     </tr>
     <tr>
         <th>Time-horizon</th>
