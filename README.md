@@ -54,6 +54,12 @@ folder. For example, for case # 9, you will want to look at folder titled `case_
 #### Help me add new or missing cases to the dataset
 You can use <a href="https://docs.google.com/forms/d/e/1FAIpQLSfKJotL3I1i5zj-RV45OP-dm-J0CIopWCDQGisoZSkmKt4h7A/viewform">this Google Form</a> to inform me about any new/missing case. Thank you in advance!
 
+#### Help spread the word
+
+<img src="assets/poster_service.png" width="400">
+
+I have developed a functionality to create customized posters for each case in the dataset. If you need a poster for any specific case, please write to me at vindicindic@gmail.com. 
+
 #### Special thanks to the following people for sharing information on these cases:
 1. [Narain Das Bheel](https://twitter.com/NarainDasBheel8)
 2. [Anshul Saxena](https://twitter.com/AskAnshul)
