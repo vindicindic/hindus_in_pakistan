@@ -11,23 +11,28 @@ Please provide proper attribution and reference if you use these datasets.
   
 ---  
   
-### 1. Dataset on violence / abduction / forced religious conversion of young Hindu girls in Pakistan (especially in Sindh)
+### 1. DAAHIP-W (Dataset of Atrocities Against Hindus in Pakistan - Women)
 
 <img src="assets/collage.jpg" width="400">
 
+#### 1.1 About
 A detailed dataset has been prepared for cases relating to abduction, violence, forced conversion of/on Hindu girls in 
 Pakistan (especially Sindh that is home to ~94% Hindu population of Pakistan). The dataset has been primarily sourced 
 from Twitter. While attempts have been made to capture data as accurately as possible, errors are regretted and any 
 updates or additions to this dataset are welcome and appreciated.
 
-#### These attacks happen the most in areas with relatively high Hindu populations.
+#### 1.2 Initial Analyses
+1. These attacks happen the most in areas with relatively high Hindu populations.
 
 <img src="assets/heatmap.png" height="300"/>  <img src="assets/sindh_hindu_population_per_by_district.png" height="300"/>  
 
 <i>Left: Heatmap of cases in the master dataset; right: Heatmap of Hindu population as a % of total population 
 (source: <a href="https://github.com/vindicindic/pakistan_minorities">here</a>)</i> 
 
-**Master Dataset**: This dataset called DAAHIP-W (Dataset of Atrocities Against Hindus in Pakistan - Women) contains 
+2. In most cases, the victims are dalits. The Pakistani census doesn't count dalits as Hindus. Perhaps, this is what keeps the problem of steady conversion under wraps.
+
+#### 1.2 DAAHIP-W
+This dataset called DAAHIP-W (Dataset of Atrocities Against Hindus in Pakistan - Women) contains 
 a list of cases that capture critical details about recorded atrocities against Hindu women in Pakistan. You can access 
 the dataset [here](data/daahip-w/20230131_list_violence_abductions_forced_conversions_hindu_women_in_pakistan.xlsx).
 
@@ -51,16 +56,21 @@ documents etc.), you will find a dedicated folder for that case in the `data/daa
 folder. For example, for case # 9, you will want to look at folder titled `case_9`.
 
 
-#### Help me add new or missing cases to the dataset
+#### 1.4 How can you help?
+
+1. **Help me add new or missing cases to the dataset**
+
 You can use <a href="https://docs.google.com/forms/d/e/1FAIpQLSfKJotL3I1i5zj-RV45OP-dm-J0CIopWCDQGisoZSkmKt4h7A/viewform">this Google Form</a> to inform me about any new/missing case. Thank you in advance!
 
-#### Help spread the word
+2. **Help spread the word**
 
 <img src="assets/poster_service.png" width="400">
 
 I have developed a functionality to create customized posters for each case in the dataset. If you need a poster for any specific case, please write to me at vindicindic@gmail.com. 
 
-#### Special thanks to the following people for sharing information on these cases:
+#### 1.5 Credits and gratitude
+
+Special thanks to the following people for sharing information on these cases:
 1. [Narain Das Bheel](https://twitter.com/NarainDasBheel8)
 2. [Anshul Saxena](https://twitter.com/AskAnshul)
 3. Sakshi Singh
