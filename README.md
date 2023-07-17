@@ -6,6 +6,8 @@
 This repo contains data regarding Hindus in Pakistan - list of Hindu temples (WIP), a crowd-sourced dataset on forced religious conversion cases of young Hindu girls (especially in Sindh) etc. This repo is meant to provide base data for further analysis by researchers, scholars and interested parties.  
   
 Please provide proper attribution and reference if you use these datasets.  
+
+#### You can check the website [here](https://tinyurl.com/vindicindic) to know more about other projects that I am working on.
   
 ---  
   
@@ -32,11 +34,11 @@ the dataset [here](data/daahip-w/20230131_list_violence_abductions_forced_conver
 <table>
     <tr>
         <th>Current # cases in dataset</th>
-        <td>107</td>
+        <td>112</td>
     </tr>
     <tr>
         <th>Time-horizon</th>
-        <td>approx. Oct '22 - Jun '23</td>
+        <td>approx. Oct '22 - Jul '23</td>
     </tr>
 </table>
 
